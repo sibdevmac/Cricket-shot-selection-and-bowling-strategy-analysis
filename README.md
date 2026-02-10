@@ -154,13 +154,9 @@ Prediction efficiency ~92%
 ## ⚙️ Methods Used
 
 * Exploratory Data Analysis
-* Heatmaps & density plots
-* Physics-based trajectory analysis
+* Heatmaps
 * Field strategy mapping
 * Logistic Regression
-* Random Forest Classification
-* Feature engineering
-* ROC/AUC evaluation
 
 Libraries:
 
@@ -192,17 +188,6 @@ Libraries:
 * Medium pace comfort zones
 * Balanced field setups
 
----
-
-## 🚀 Future Work
-
-* Add batter behavior & contextual features
-* Use XGBoost/Gradient Boosting
-* SHAP explainability
-* 3D trajectory modeling
-* Real-time bowling strategy optimization
-
----
 
 ## 📌 Conclusion
 
